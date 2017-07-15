@@ -55,6 +55,7 @@ pdb.set_trace()
 
 ##################################################    
 # save and load model
+
 # Remove previous Tensors and Operations
 tf.reset_default_graph()
 
