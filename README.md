@@ -1,7 +1,21 @@
 # DeepLearning
-Deep Learning mini Projects. You can easily play around with only minor knowlede.
+Deep Learning mini Projects. You can easily play around with only minor knowlede. 
 
-[tensorflow_ex](./tensorflow_ex): basic examples and usages with tensorflow.
+
+
+
+## 
+
+[tensorflow_ex](./tensorflow_ex): basic examples and usages with tensorflow. Examples of using different layers and the vgg example.
+
+## Resources
+
+BOOK [deep learning by Ian Goodfellow](http://www.deeplearningbook.org/) is highly recommended, even for the beginers.
+
+Website [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) This website provide many concept and also some gif to illustrate how things work. A quick work through this web may be help. 
+
+#### TensorFlow 
+Many examples of basic models and neural networks can be found from aymericdamien's [Github](https://github.com/aymericdamien/TensorFlow-Examples). 
 
 #### Flappy Bird  
 This project follows the description of the Deep Q Learning algorithm described in Playing Atari with Deep Reinforcement Learning [2] and shows that this learning algorithm can be further generalized to the notorious Flappy Bird. Download from [Github](https://github.com/yenchenlin/DeepLearningFlappyBird).
@@ -14,5 +28,3 @@ This is a part of [MIT 6.S094](http://selfdrivingcars.mit.edu/) course of Deep L
 #### Fast Style Transfer
 In this project, you will add styles from famous paintings to any photo in a fraction of a second! You can even style videos! Download from [Github](https://github.com/lengstrom/fast-style-transfer).
 
-# TensorFlow 
-Many examples of basic models and neural networks can be found from aymericdamien's [Github](https://github.com/aymericdamien/TensorFlow-Examples). 
