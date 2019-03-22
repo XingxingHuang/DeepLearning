@@ -14,8 +14,15 @@ BOOK [deep learning by Ian Goodfellow](http://www.deeplearningbook.org/) is high
 
 Website [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) This website provide many concept and also some gif to illustrate how things work. A quick work through this web may be help. 
 
+Website [distill](https://distill.pub) This is a more advanced research website. You can find more friendly presentation for latest published papers.
+
 #### TensorFlow 
 Many examples of basic models and neural networks can be found from aymericdamien's [Github](https://github.com/aymericdamien/TensorFlow-Examples). 
+
+
+#### Keras
+
+Applied Deep Learning, The articals and the github notebook can be found in [Medium](https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2) and [ardendertat](https://github.com/ardendertat/Applied-Deep-Learning-with-Keras/tree/master/notebooks) which introduce everything from scrach.
 
 #### Flappy Bird  
 This project follows the description of the Deep Q Learning algorithm described in Playing Atari with Deep Reinforcement Learning [2] and shows that this learning algorithm can be further generalized to the notorious Flappy Bird. Download from [Github](https://github.com/yenchenlin/DeepLearningFlappyBird).
